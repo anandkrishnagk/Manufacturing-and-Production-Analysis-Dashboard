@@ -54,7 +54,7 @@ The dashboard provides a clear view of **production efficiency, downtime, and ma
 - **Insight:** Preventive maintenance and sensor calibration are the most frequent issues.
 
 ### 5. **Machine Summary Table**
-- **Purpose:** Replaces scatter plot to show a compact performance summary.  
+- **Purpose:** To show a compact performance summary.  
 - **Columns:** Machine ID, Total Units Produced, Avg. Machine Utilization, Downtime, Defective Units.  
 - **Insight:** Offers a concise operational overview for each machine.
 
