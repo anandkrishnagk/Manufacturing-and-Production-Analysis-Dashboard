@@ -6,6 +6,22 @@ The dashboard provides a clear view of **production efficiency, downtime, and ma
 
 ---
 
+##  Project Workflow  
+
+1. **Data Generation (Python)**  
+   - Synthetic manufacturing data was generated using Python’s randomization techniques.  
+   - Data includes production logs, machine utilization, downtime hours, and maintenance issues.  
+
+2. **Database Creation (MySQL)**  
+   - Designed relational tables: `machines`, `products`, `production_log`, and `maintenance_log`.  
+   - Inserted generated data into MySQL tables and validated relationships using foreign keys.  
+   - Exported the `maintenance_log` as a CSV for use in Tableau blending.  
+
+3. **Visualization (Tableau)**  
+   - Connected Tableau directly to the MySQL database.  
+   - Built a modern, interactive dashboard showing KPIs, production trends, and maintenance insights.  
+
+
 ##  Data Sources
 | Source Type | Name | Description |
 |--------------|------|--------------|
