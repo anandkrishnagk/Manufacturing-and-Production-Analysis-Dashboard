@@ -1,0 +1,17 @@
+maintenance_id,machine_id,maintenance_date,issue_type,duration_hours,technician_name,parts_replaced,notes
+1,MC0005,01-01-2025,Sensor calibration,3.6,Rajesh Kumar,Ejector Pin Sensor,"Calibrated sensor, tested performance"
+2,MC0001,06-01-2025,Coolant pump issue,2.5,Anjali Mehta,Coolant Pump,"Pump replaced, leakage fixed"
+3,MC0002,19-01-2025,Sensor calibration,3.6,Vikram Singh,AE Sensor,"Calibrated sensors, no defects"
+4,MC0004,23-01-2025,Sensor calibration,3.1,Priya Sharma,Proximity Sensor,Sensor misalignment corrected
+5,MC0004,24-01-2025,Sensor calibration,1.6,Priya Sharma,Proximity Sensor,Quick calibration after testing
+6,MC0004,28-01-2025,Hydraulic leak repair,2.9,Arjun Mehta,Seal Kit,"Leak repaired, pressure tested"
+7,MC0003,02-02-2025,Preventive maintenance,2.3,Rajesh Kumar,–,"Routine checkup, no issues found"
+8,MC0003,05-02-2025,Routine checkup,2,Rajesh Kumar,–,Inspected all components
+9,MC0003,07-02-2025,Sensor calibration,2,Vikram Singh,Pressure Sensor,"Re-calibration, minor adjustment"
+10,MC0001,14-02-2025,Coolant pump issue,2.8,Anjali Mehta,Coolant Pump,"Pump replaced, tested system"
+11,MC0002,20-02-2025,Hydraulic leak repair,3.9,Arjun Mehta,Seal Kit,"Leak fixed, verified pressure"
+12,MC0006,26-02-2025,Routine checkup,1,Priya Sharma,–,"General inspection, no issues"
+13,MC0005,05-03-2025,Preventive maintenance,1.9,Rajesh Kumar,–,Routine maintenance check
+14,MC0002,17-03-2025,Preventive maintenance,3.4,Vikram Singh,–,"Preventive maintenance, calibrated sensors"
+,,,,,,,
+,,,,,,,
