@@ -21,6 +21,7 @@ The dashboard provides a clear view of **production efficiency, downtime, and ma
    - Connected Tableau directly to the MySQL database.  
    - Built a modern, interactive dashboard showing KPIs, production trends, and maintenance insights.  
 
+---
 
 ##  Data Sources
 | Source Type | Name | Description |
